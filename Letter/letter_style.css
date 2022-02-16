@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+ }
+.box{
+    max-width: 800px;
+    border: 2px solid black;
+    padding: 1cm;
+    background-color: lavender;
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+}
+.address{
+    padding-bottom: 30px;
+    text-align: start;
+}
+.data {
+    font-weight: 700;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.greeting{
+    font-size: 20px;
+    padding-bottom: 25px;
+}
+.closing{
+    text-align: end;
+    padding top: 25px;
+
+}
+.signature{
+font-size: 20px;
+
+}
